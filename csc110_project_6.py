@@ -1,5 +1,4 @@
-# Name: Adebambo Adedire
-# Date: 12/07/2023
+
 # this code gets information about co2 readings then calculates the minimum, maximum, and average readings entered
 
 def main():
