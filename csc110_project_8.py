@@ -166,27 +166,4 @@ Average arsenic level of the month: 21.259
 Total number of readings in the month: 27
 Highest reading of the month: 37.0
 Lowest reading of the month: 12.0
-
-QUESTIONS:
-1. How did you approach this assignment? 
-1.1 Where did you get stuck, and how did you get unstuck?
-
-I got stuck on the printing file information out. I tried my best to look up info and the 
-commented out code at the top is the best I could do. I also struggled with splitting the
-data. So, I made some adjustments with the header and the river names in the text file
-to make things a bit more 'simple'.
-
-2. How did you test your program? 
-2.1 What doe not work as you’d like, perhaps things that you’d like to fix as you learn more?
-
-I tested it over and over again through looking at the file and seeing if the calculations
-were correct. Everything works. It just does not print out a file.
-
-3. What did you learn from this assignment? 
-3.1 What will you do differently on the next project?
-
-I learned that it's very difficult to work with large data sets without something like 
-pandas. I think that its good to learn how to extract and look through data sets on your 
-own without python packages but it's difficult. 
-
 """
