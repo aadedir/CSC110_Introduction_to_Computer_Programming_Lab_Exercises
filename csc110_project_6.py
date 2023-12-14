@@ -141,25 +141,4 @@ Minimum CO2 level: 177
 Average CO2 level: 535
 -------------------------------------------------
 
-SUMMARY QUESTIONS: 
-
-1. How did you approach this assignment? Where did you get stuck, and how did you get unstuck?
-
-My approach for this assignment was first trying to write out a block of code that would loop over and over 
-for an empty string entered. I wrote out the code for the user name first and that helped with other sections.
-
-2. How did you test your program? What does not work as you’d like? What are things that you’d like to fix in future?
-
-I tested the program over and over by giving in inputs and looking through warnings and errors given by PyCharm.
-I don't think there's much I would change about this. Everything looks pretty good. But if I were writing more code
-then I would try and handle value errors for incorrect inputs such as numbers for strings or strings for numbers or
-floats for integers. 
-
-3. What did you learn from this assignment? What will you do differently on the next project?
-
-I learned how to properly handle working with return values across multiple functions. I struggled trying to use
-different variables across multiple functions and tried using global variables but it made things more confusing,
-so I settled on a better way. I think I should be more efficient next project and not try to sit and struggle
-trying to figure things out on my own and simply look it up. 
-
 '''
